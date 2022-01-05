@@ -1,0 +1,26 @@
+*{
+    font-family: Bahnschrift;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    font-family: Bahnschrift;
+    background-color: lightblue;
+    margin-bottom: 70px;
+}
+
+footer{
+    text-align: center;
+    line-height:3;
+    background-color: dodgerblue;
+    font-family: Bahnschrift;
+    bottom: 0;
+    width: 100%;
+    font-size: 16px;
+    color: white;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+

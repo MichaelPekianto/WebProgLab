@@ -1,0 +1,57 @@
+*{
+    font-family: "Gill Sans MT";
+}
+
+body{
+    background-color: #f7fafc;
+    font-family: "Segoe UI";
+}
+
+.why{
+    background-color: #ffffff;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: thin;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.me{
+    background-color: #ffffff;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: thin;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.reg{
+    background-color: lightgray;
+    padding:1%;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: gray;
+    border-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 20px;
+}
+
+.login{
+    background-color: lightgray;
+    padding:1%;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: gray;
+    border-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 20px;
+}
+
+form{
+    padding-right: 200px;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
